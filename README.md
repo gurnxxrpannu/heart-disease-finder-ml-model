@@ -41,19 +41,6 @@ This project uses a heart disease dataset with features like:
 
 ---
 
-## ⚙️ Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/gurnxxrpannu/heart-disease-finder-ml-model.git
-cd heart-disease-finder-ml-model
-2. Create and activate the environment
-conda env create -f environment.yml
-conda activate ./env
-3. Launch Jupyter Notebook
-jupyter notebook
-Then open end-to-end-heart-disease-classification.ipynb
 
 📈 Model Evaluation
 Models are evaluated using:
